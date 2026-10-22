@@ -1,0 +1,110 @@
+===== STACK AND QUEUE USING LINKED LISTS =====
+1. Stack operations
+2. Queue operations
+3. Exit
+Enter your choice: 1
+
+--- STACK OPERATIONS ---
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Back to main menu
+Enter your choice: 1
+Enter value to push: 10
+10 pushed onto the stack.
+
+--- STACK OPERATIONS ---
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Back to main menu
+Enter your choice: 1
+Enter value to push: 20
+20 pushed onto the stack.
+
+--- STACK OPERATIONS ---
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Back to main menu
+Enter your choice: 4
+Stack (top to bottom): 20 10
+
+--- STACK OPERATIONS ---
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Back to main menu
+Enter your choice: 2
+Popped element: 20
+
+--- STACK OPERATIONS ---
+1. Push
+2. Pop
+3. Peek
+4. Display
+5. Back to main menu
+Enter your choice: 5
+
+===== STACK AND QUEUE USING LINKED LISTS =====
+1. Stack operations
+2. Queue operations
+3. Exit
+Enter your choice: 2
+
+--- QUEUE OPERATIONS ---
+1. Enqueue
+2. Dequeue
+3. Peek
+4. Display
+5. Back to main menu
+Enter your choice: 1
+Enter value to enqueue: A
+A added to the queue.
+
+--- QUEUE OPERATIONS ---
+1. Enqueue
+2. Dequeue
+3. Peek
+4. Display
+5. Back to main menu
+Enter your choice: 1
+Enter value to enqueue: B
+B added to the queue.
+
+--- QUEUE OPERATIONS ---
+1. Enqueue
+2. Dequeue
+3. Peek
+4. Display
+5. Back to main menu
+Enter your choice: 4
+Queue (front to rear): A B
+
+--- QUEUE OPERATIONS ---
+1. Enqueue
+2. Dequeue
+3. Peek
+4. Display
+5. Back to main menu
+Enter your choice: 2
+Removed element: A
+
+--- QUEUE OPERATIONS ---
+1. Enqueue
+2. Dequeue
+3. Peek
+4. Display
+5. Back to main menu
+Enter your choice: 5
+
+===== STACK AND QUEUE USING LINKED LISTS =====
+1. Stack operations
+2. Queue operations
+3. Exit
+Enter your choice: 3
+Thank you! Program ended.
