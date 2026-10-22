@@ -1,0 +1,18 @@
+=== CITY NAVIGATION ===
+Start: Central Station
+Destination: Tech Park
+Shortest route: Central Station -> City Hall -> University -> Tech Park
+Total distance: 7.0 km
+Reachable locations: Central Station, City Hall, Market Square, Museum, Riverside Park, Tech Park, University
+
+=== HUFFMAN CODING ===
+Unique characters: 51
+Encoded bit length: 1848
+Original 8-bit length: 3000
+Decode verification: PASS
+
+=== FILE COMPRESSION ===
+Plain text: sample_report.txt (375 bytes)
+GZIP:      sample_report.txt.gz (272 bytes)
+ZIP:       sample_report_bundle.zip (362 bytes)
+Note: tiny files can become larger after compression due to archive headers.
