@@ -1,0 +1,11 @@
+Word added.
+Word added.
+Word added.
+
+Search apple: A fruit
+Search dog: Word not found.
+
+All words:
+apple: A fruit
+python: A programming language
+book: Something to read
